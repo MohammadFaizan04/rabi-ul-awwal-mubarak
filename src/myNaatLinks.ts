@@ -22,22 +22,26 @@ export const MY_NAAT_LINKS: CustomNaatLinksConfig = {
   // 1. Tala'al Badru 'Alayna (طَلَعَ الْبَدْرُ عَلَيْنَا)
   // Paste your custom audio URL between the quotes below:
 //   talaAlBadruUrl: "https://cdn.islamicfinder.org/audio/tala-al-badru-alayna.mp3",
-  talaAlBadruUrl: "/src/public/audio/tala-al-badru.mp3",
+  // talaAlBadruUrl: "/src/public/audio/tala-al-badru.mp3",
+  talaAlBadruUrl: "https://files.catbox.moe/19pyod.mp3",
 
   // 2. Qasida Burda Sharif (قَصِيدَةُ الْبُرْدَةِ الشَّرِيفَة)
   // Paste your custom audio URL between the quotes below:
-  qasidaBurdaUrl: "/src/public/audio/qasida-burda-shareef.mp3",
+  // qasidaBurdaUrl: "/src/public/audio/qasida-burda-shareef.mp3",
+  qasidaBurdaUrl: "https://files.catbox.moe/wyk7hi.mp3",
   
   // 3. Balaghal Ula Bi Kamaalihi (بَلَغَ الْعُلَى بِكَمَالِهِ)
   // Paste your custom audio URL between the quotes below:
   //   balaghalUlaUrl: "https://ia801604.us.archive.org/16/items/balaghal-ula-bi-kamalihi/Balaghal%20Ula%20Bi%20Kamalihi.mp3",
-    balaghalUlaUrl: "/src/public/audio/balaghal-ula-be-kamalehi.mp3",
+    // balaghalUlaUrl: "/src/public/audio/balaghal-ula-be-kamalehi.mp3",
+    balaghalUlaUrl: "https://files.catbox.moe/uoaxu9.mp3",
     // balaghalUlaUrl: "https://naatsharif.com/download-mp3/abdul-rauf-rufi/balaghal-ula-be-kamalehi.mp3",
 
 
   // 4. Durood-e-Taj & Salawat (Optional)
 //   duroodETajUrl: "https://ia800208.us.archive.org/19/items/DaroodTaj_201605/Darood%20Taj.mp3",
-  duroodETajUrl: "/src/public/audio/durood-taj.mp3",
+  // duroodETajUrl: "/src/public/audio/durood-taj.mp3",
+  duroodETajUrl: "https://files.catbox.moe/idd61v.mp3",
 };
 
 export default MY_NAAT_LINKS;

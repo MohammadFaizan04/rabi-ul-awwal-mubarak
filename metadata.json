@@ -1,0 +1,6 @@
+{
+  "name": "Rabi-ul-Awwal Mubarak",
+  "description": "A premium, interactive digital Islamic greeting and cinematic experience for Rabi-ul-Awwal and Eid Milad-un-Nabi Mubarak with blessings, wisdom, and interactive duas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
